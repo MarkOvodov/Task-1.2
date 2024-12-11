@@ -1,0 +1,26 @@
+.maintext {
+    font-size: 21px;
+    color: white;
+}
+
+.textcolor{
+    color: white;
+}
+
+.imagesize {
+    width: 400px;
+    height: auto ;
+}
+
+h1{
+    font-size: 30px;
+    text-decoration:overline;
+}
+
+h2{
+    font-size: 26px;
+}
+
+body{
+    background-color: darkcyan;
+}
